@@ -2799,6 +2799,14 @@ h3 {
   
 }
 
+.destination_banner_wrap_kopi {
+  background-image: url(../gambvar-malioboro/kopijos.jpeg);
+  padding: 340px 0;
+  background-size: cover;
+  background-position: center center;
+  
+}
+
 @media (max-width: 767px) {
   /* line 80, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_destination.scss */
   .destination_banner_wrap {
