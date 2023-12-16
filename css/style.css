@@ -2799,13 +2799,7 @@ h3 {
   
 }
 
-.destination_banner_wrap_kopi {
-  background-image: url(../gambvar-malioboro/kopijos.jpeg);
-  padding: 340px 0;
-  background-size: cover;
-  background-position: center center;
-  
-}
+/* BANNER GUDEG */
 
 @media (max-width: 767px) {
   /* line 80, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_destination.scss */
@@ -2857,6 +2851,68 @@ h3 {
   font-weight: 400;
   color: #fff;
 }
+
+/* BANNER KOPI */
+
+.destination_banner_wrap_kopi {
+  background-image: url(../gambvar-malioboro/kopijos.jpeg);
+  padding: 340px 0;
+  background-size: cover;
+  background-position: center center;
+  
+}
+
+@media (max-width: 767px) {
+  /* line 80, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_destination.scss */
+  .destination_banner_wrap_kopi {
+    padding: 150px 0;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  /* line 80, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_destination.scss */
+  .destination_banner_wrap_kopi {
+    padding: 250px 0;
+  }
+}
+
+/* line 91, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_destination.scss */
+.destination_banner_wrap_kopi.overlay:before {
+  opacity: .3;
+}
+
+/* line 95, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_destination.scss */
+.destination_banner_wrap_kopi .destination_text h3 {
+  font-size: 80px;
+  line-height: 90px;
+  color: #fff;
+  font-family: "Nothing You Could Do", cursive;
+  margin-bottom: 0;
+}
+
+@media (max-width: 767px) {
+  /* line 95, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_destination.scss */
+  .destination_banner_wrap_kopi .destination_text h3 {
+    font-size: 40px;
+    line-height: 50px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  /* line 95, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_destination.scss */
+  .destination_banner_wrap_kopi .destination_text h3 {
+    font-size: 60px;
+    line-height: 70px;
+  }
+}
+
+/* line 110, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_destination.scss */
+.destination_banner_wrap_kopi .destination_text p {
+  font-size: 20px;
+  font-weight: 400;
+  color: #fff;
+}
+
 
 /* line 118, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_destination.scss */
 .destination_details_info {
