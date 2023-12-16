@@ -2122,7 +2122,7 @@ h3 {
 }
 
 
-
+/* 
 .bradcam_area {
   background-size: cover;
   background-position: center center;
@@ -2133,13 +2133,11 @@ h3 {
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
-  /* line 13, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_bradcam.scss */
   .bradcam_area {
     padding: 120px 0;
   }
 }
 
-/* line 23, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_bradcam.scss */
 .bradcam_area::before {
   position: absolute;
   left: 0;
@@ -2154,91 +2152,11 @@ h3 {
 
 @media (max-width: 767px) {
   /* line 13, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_bradcam.scss */
-  .bradcam_area {
+  /* .bradcam_area {
     padding: 150px 0;
-  }
-}
+  } */
 
-/* line 37, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_bradcam.scss */
-.bradcam_area h3 {
-  font-size: 80px;
-  color: #fff;
-  font-weight: 500;
-  margin-bottom: 0;
-  line-height: 90px;
-  text-transform: capitalize;
-  font-family: "Nothing You Could Do", cursive;
-}
-
-@media (max-width: 767px) {
-  /* line 37, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_bradcam.scss */
-  .bradcam_area h3 {
-    font-size: 40px;
-  }
-}
-
-/* line 49, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_bradcam.scss */
-.bradcam_area p {
-  font-size: 18px;
-  color: #fff;
-  font-weight: 400;
-  text-transform: capitalize;
-}
-
-/* line 54, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_bradcam.scss */
-.bradcam_area p a {
-  color: #fff;
-}
-
-/* line 56, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_bradcam.scss */
-.bradcam_area p a:hover {
-  color: #fff;
-}
-
-/* line 62, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_bradcam.scss */
-.bradcam_area .bradcam_text2 h3 {
-  font-size: 50px;
-  margin-bottom: 14px;
-}
-
-@media (max-width: 767px) {
-  /* line 62, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_bradcam.scss */
-  .bradcam_area .bradcam_text2 h3 {
-    font-size: 30px;
-  }
-}
-
-/* line 69, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_bradcam.scss */
-.bradcam_area .bradcam_text2 p {
-  font-size: 20px;
-  margin-bottom: 0;
-}
-
-/* line 74, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_bradcam.scss */
-.bradcam_area.Extra_padding {
-  padding: 399px 0;
-}
-
-@media (max-width: 767px) {
-  /* line 74, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_bradcam.scss */
-  .bradcam_area.Extra_padding {
-    padding: 150px 0;
-  }
-}
-
-@media (min-width: 768px) and (max-width: 991px) {
-  /* line 74, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_bradcam.scss */
-  .bradcam_area.Extra_padding {
-    padding: 150px 0;
-  }
-}
-
-@media (min-width: 992px) and (max-width: 1200px) {
-  /* line 74, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_bradcam.scss */
-  .bradcam_area.Extra_padding {
-    padding: 150px 0;
-  }
-}
+/*  */
 
 /* line 88, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_bradcam.scss */
 .popup_box {
