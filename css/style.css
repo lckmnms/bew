@@ -2802,7 +2802,6 @@ h3 {
   
 }
 
-
 @media (max-width: 767px) {
   /* line 80, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_destination.scss */
   .destination_banner_wrap {
@@ -2979,6 +2978,191 @@ h3 {
   font-weight: 400;
   color: #fff;
 }
+
+
+/* BANNER BAKPIA */
+.destination_banner_wrap_bakpia {
+  background-image: url(../gambvar-malioboro/bakpiakul.jpg);
+  padding: 340px 0;
+  background-size: cover;
+  background-position: center center;
+  
+}
+
+@media (max-width: 767px) {
+  /* line 80, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_destination.scss */
+  .destination_banner_wrap_bakpia {
+    padding: 150px 0;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  /* line 80, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_destination.scss */
+  .destination_banner_wrap_bakpia {
+    padding: 250px 0;
+  }
+}
+
+/* line 91, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_destination.scss */
+.destination_banner_wrap_bakpia.overlay:before {
+  opacity: .3;
+}
+
+/* line 95, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_destination.scss */
+.destination_banner_wrap_bakpia .destination_text h3 {
+  font-size: 80px;
+  line-height: 90px;
+  color: #fff;
+  font-family: "Nothing You Could Do", cursive;
+  margin-bottom: 0;
+}
+
+@media (max-width: 767px) {
+  /* line 95, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_destination.scss */
+  .destination_banner_wrap_bakpia .destination_text h3 {
+    font-size: 40px;
+    line-height: 50px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  /* line 95, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_destination.scss */
+  .destination_banner_wrap_bakpia .destination_text h3 {
+    font-size: 60px;
+    line-height: 70px;
+  }
+}
+
+/* line 110, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_destination.scss */
+.destination_banner_wrap_bakpia .destination_text p {
+  font-size: 20px;
+  font-weight: 400;
+  color: #fff;
+}
+
+/* BANNER BATIK */
+.destination_banner_wrap_batik {
+  background-image: url(../gambvar-malioboro/batikparang.jpg);
+  padding: 340px 0;
+  background-size: cover;
+  background-position: center center;
+  
+}
+
+@media (max-width: 767px) {
+  /* line 80, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_destination.scss */
+  .destination_banner_wrap_batik {
+    padding: 150px 0;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  /* line 80, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_destination.scss */
+  .destination_banner_wrap_batik {
+    padding: 250px 0;
+  }
+}
+
+/* line 91, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_destination.scss */
+.destination_banner_wrap_batik.overlay:before {
+  opacity: .3;
+}
+
+/* line 95, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_destination.scss */
+.destination_banner_wrap_batik .destination_text h3 {
+  font-size: 80px;
+  line-height: 90px;
+  color: #fff;
+  font-family: "Nothing You Could Do", cursive;
+  margin-bottom: 0;
+}
+
+@media (max-width: 767px) {
+  /* line 95, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_destination.scss */
+  .destination_banner_wrap_batik .destination_text h3 {
+    font-size: 40px;
+    line-height: 50px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  /* line 95, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_destination.scss */
+  .destination_banner_wrap_batik .destination_text h3 {
+    font-size: 60px;
+    line-height: 70px;
+  }
+}
+
+/* line 110, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_destination.scss */
+.destination_banner_wrap_batik .destination_text p {
+  font-size: 20px;
+  font-weight: 400;
+  color: #fff;
+}
+
+/* BANNER WINGKO */
+.destination_banner_wrap_wingko {
+  background-image: url(../gambvar-malioboro/wingko.jpeg);
+  padding: 340px 0;
+  background-size: cover;
+  background-position: center center;
+  
+}
+
+@media (max-width: 767px) {
+  /* line 80, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_destination.scss */
+  .destination_banner_wrap_wingko {
+    padding: 150px 0;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  /* line 80, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_destination.scss */
+  .destination_banner_wrap_wingko {
+    padding: 250px 0;
+  }
+}
+
+/* line 91, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_destination.scss */
+.destination_banner_wrap_wingko.overlay:before {
+  opacity: .3;
+}
+
+/* line 95, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_destination.scss */
+.destination_banner_wrap_wingko .destination_text h3 {
+  font-size: 80px;
+  line-height: 90px;
+  color: #fff;
+  font-family: "Nothing You Could Do", cursive;
+  margin-bottom: 0;
+}
+
+@media (max-width: 767px) {
+  /* line 95, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_destination.scss */
+  .destination_banner_wrap_wingko .destination_text h3 {
+    font-size: 40px;
+    line-height: 50px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  /* line 95, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_destination.scss */
+  .destination_banner_wrap_wingko .destination_text h3 {
+    font-size: 60px;
+    line-height: 70px;
+  }
+}
+
+/* line 110, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_destination.scss */
+.destination_banner_wrap_wingko .destination_text p {
+  font-size: 20px;
+  font-weight: 400;
+  color: #fff;
+}
+
+
+
+
 
 
 
